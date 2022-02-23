@@ -11,12 +11,12 @@
   },
   {
     "id_product": 3,
-    "product_name": 'Keyboard',
+    "product_name": "Keyboard",
     "price": 200
   },
   {
     "id_product": 4, 
-    "product_name": 'Gamepad'
+    "product_name": "Gamepad"
     ,"price": 50
   }     
 ]
