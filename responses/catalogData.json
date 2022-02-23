@@ -3,7 +3,7 @@
     "id_product": 123,
     "product_name": "Ноутбук",
     "price": 45600,
-    "img": "https://github.com/avataralesia/API-online_store/blob/main/responses/img/11.jpg"
+    "img": "/img/11.jpg"
   },
   {
     "id_product": 456,
